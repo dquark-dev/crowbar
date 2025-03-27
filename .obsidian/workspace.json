@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3fdc78bc9cd292f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fed14eba542427d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013ece4022880667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2Maths and Stats/theory/Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Content"
+            }
+          },
+          {
+            "id": "79429f7e8568a418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2Maths and Stats/theory/Session 1 and 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 and 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33de5c96572603e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f1d830f5713687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5b2f981f79626c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a6315da80a37ca06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "206b1ba43f758db7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c309d0655197e4ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8734ebba558eaa8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bec774c1454bdc99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "66f865863cd5a4a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ab1288072663fa99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b401e36988368c31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a5b2f981f79626c",
+  "lastOpenFiles": [
+    "crowbar/README.md",
+    "crowbar",
+    "2Maths and Stats/theory/Session 20.md",
+    "2Maths and Stats/theory/Session 1 and 2.md",
+    "2Maths and Stats/theory/Session 10 and 11.md",
+    "2Maths and Stats/theory/Content.md",
+    "2Maths and Stats/theory/Session 19.md",
+    "2Maths and Stats/theory/Session 18.md",
+    "2Maths and Stats/theory/Session 16 and 17.md",
+    "2Maths and Stats/theory/Session 14 and 15.md",
+    "2Maths and Stats/theory/Session 12 and 13.md",
+    "2Maths and Stats/theory/Session 8 and 9.md",
+    "2Maths and Stats/theory/Session 6 and 7.md",
+    "2Maths and Stats/theory/Session 5.md",
+    "2Maths and Stats/theory/Session 3 and 4.md",
+    "logbook/daily/mar_22.md",
+    "Vectors.md",
+    "Pasted image 20250322054612.png",
+    "Pasted image 20250322053827.png",
+    "Pasted image 20250322053528.png",
+    "Pasted image 20250322052833.png",
+    "Pasted image 20250322052730.png",
+    "Pasted image 20250322052724.png",
+    "Pasted image 20250322052205.png",
+    "Pasted image 20250322051425.png",
+    "4Python/basics/coding snippets/1 OOPs Concepts.md",
+    "11DSA and Algo/4Stacks and queues.md",
+    "logbook/daily",
+    "logbook/Lab Test.md",
+    "11DSA and Algo/1Arrays and Strings.md",
+    "11DSA and Algo/0Syllabus.md",
+    "11DSA and Algo/10Dynamic programming.md",
+    "11DSA and Algo/9Backtracking.md",
+    "11DSA and Algo/8Binary search.md",
+    "11DSA and Algo/7Greedy algorithms.md",
+    "11DSA and Algo/6Heaps.md",
+    "11DSA and Algo",
+    "Pasted image 20250317163603.png",
+    "Pasted image 20250317163518.png",
+    "2Maths and Stats/numericals",
+    "2Maths and Stats/theory",
+    "logbook",
+    "4Python/basics",
+    "4Python/dsa",
+    "4Python/basics/theory",
+    "4Python/basics/coding snippets"
+  ]
+}
